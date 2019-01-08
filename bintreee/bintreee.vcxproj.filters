@@ -21,6 +21,12 @@
     <ClInclude Include="targetver.h">
       <Filter>Headerdateien</Filter>
     </ClInclude>
+    <ClInclude Include="bintree_stack.h">
+      <Filter>Quelldateien</Filter>
+    </ClInclude>
+    <ClInclude Include="poolAlloc.h">
+      <Filter>Quelldateien</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
