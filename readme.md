@@ -1,0 +1,1 @@
+This is just some code I wrote during my Apprenticeship, I don't think I'll ever have a use for this, but better push it to github than deleting it.
